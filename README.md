@@ -112,6 +112,8 @@ ADDITIONALS:
 3. Appropriate status codes are returned in the API responses, such as 400 for bad requests, 200 for response and 500 for internal server errors.
 
 SCREENSHOTS:
+<img width="1462" alt="Screenshot 2023-11-25 at 5 31 02 PM" src="https://github.com/Sejal84/Backend-Weather-API/assets/150245903/8aa92537-bdfd-4025-bd26-170f0376f3fa">
+
 <img width="1464" alt="Screenshot 2023-11-25 at 5 32 27 PM" src="https://github.com/Sejal84/Backend-Weather-API/assets/150245903/2507dd2e-6201-44f8-a9d8-6652a1ccd457">
 
 <img width="1464" alt="Screenshot 2023-11-25 at 5 31 56 PM" src="https://github.com/Sejal84/Backend-Weather-API/assets/150245903/72cd0305-d4a8-4c1d-aa98-519f9d16f6bc">
